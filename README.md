@@ -1,4 +1,4 @@
-#### :star_and_crescent: Assalamu'alaikum Wr Wb, Halo Semuanya ... 👋
+#### 👋 Assalamu'alaikum Wr Wb, Halo Semuanya ...
 
 #### :man: Henri Sekeladi : Seorang Ayah, SysAdmin, DevOps, dan Fullstack Developer 🤣
 
