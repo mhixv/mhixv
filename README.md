@@ -17,6 +17,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cara Membuat  Swapfile pada Server CentOS 7 #015](https://www.youtube.com/watch?v=lGx2B7O-AKw)
+- [Cara Membuat WIFI Lebih Dari Satu (1) Modem IndiHome ZTE F609](https://www.youtube.com/watch?v=Xwoirhc11N0)
+- [Cara Install Apache Webserver Pada CentOS 7  #014](https://www.youtube.com/watch?v=Avnl6nxugVA)
+- [Cara Membuat Koneksi HTTPS dengan Let's Encrypt pada Domain di Server Centos 7](https://www.youtube.com/watch?v=dwcAVgTEu_k)
+- [Cara Pointing Domain Subdomain ke Alamat IP Server Centos 7 #012](https://www.youtube.com/watch?v=wx1WvaLz9fE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
@@ -26,6 +31,10 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Instalasi Database MariaDB pada CentOS 7](https://henri.web.id/cara-instalasi-database-mariadb-pada-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=cara-instalasi-database-mariadb-pada-centos-7)
+- [Cara instalasi phpMyAdmin pada CentOS 7](https://henri.web.id/cara-instalasi-phpmyadmin-pada-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=cara-instalasi-phpmyadmin-pada-centos-7)
+- [Instalasi dan konfigurasi Supervisord pada centos 7 untuk menjalankan queue  laravel](https://henri.web.id/instalasi-dan-konfigurasi-supervisord-pada-centos-7-untuk-menjalankan-queue-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=instalasi-dan-konfigurasi-supervisord-pada-centos-7-untuk-menjalankan-queue-laravel)
+- [Memperbaiki : client intended to send too large body: xxxxx bytes](https://henri.web.id/memperbaiki-client-intended-to-send-too-large-body-xxxxx-bytes/?utm_source=rss&utm_medium=rss&utm_campaign=memperbaiki-client-intended-to-send-too-large-body-xxxxx-bytes)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://henri.web.id)
