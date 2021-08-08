@@ -19,6 +19,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cara Membuat  Swapfile pada Server CentOS 7 #015](https://www.youtube.com/watch?v=lGx2B7O-AKw)
+- [Cara Membuat WIFI Lebih Dari Satu (1) Modem IndiHome ZTE F609](https://www.youtube.com/watch?v=Xwoirhc11N0)
+- [Cara Install Apache Webserver Pada CentOS 7  #014](https://www.youtube.com/watch?v=Avnl6nxugVA)
+- [Cara Membuat Koneksi HTTPS dengan Let's Encrypt pada Domain di Server Centos 7](https://www.youtube.com/watch?v=dwcAVgTEu_k)
+- [Cara Pointing Domain Subdomain ke Alamat IP Server Centos 7 #012](https://www.youtube.com/watch?v=wx1WvaLz9fE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
