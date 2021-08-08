@@ -33,6 +33,10 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Instalasi Database MariaDB pada CentOS 7](https://henri.web.id/cara-instalasi-database-mariadb-pada-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=cara-instalasi-database-mariadb-pada-centos-7)
+- [Cara instalasi phpMyAdmin pada CentOS 7](https://henri.web.id/cara-instalasi-phpmyadmin-pada-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=cara-instalasi-phpmyadmin-pada-centos-7)
+- [Instalasi dan konfigurasi Supervisord pada centos 7 untuk menjalankan queue  laravel](https://henri.web.id/instalasi-dan-konfigurasi-supervisord-pada-centos-7-untuk-menjalankan-queue-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=instalasi-dan-konfigurasi-supervisord-pada-centos-7-untuk-menjalankan-queue-laravel)
+- [Memperbaiki : client intended to send too large body: xxxxx bytes](https://henri.web.id/memperbaiki-client-intended-to-send-too-large-body-xxxxx-bytes/?utm_source=rss&utm_medium=rss&utm_campaign=memperbaiki-client-intended-to-send-too-large-body-xxxxx-bytes)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://henri.web.id)
