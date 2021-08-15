@@ -40,4 +40,12 @@
 
 ➡️ [more blog posts...](https://henri.web.id)
 
+<br />
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 #### :indonesia: Dari Indonesia dengan :hearts:
