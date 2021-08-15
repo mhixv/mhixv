@@ -18,11 +18,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cara mengatasi lupa username dan password Modem IndiHome ZTE](https://www.youtube.com/watch?v=ofPrxMyZV8g)
 - [Cara instalasi Debian Linux di Virtualbox](https://www.youtube.com/watch?v=08aXA4I3-Ag)
 - [Review Termius SSH sebagai client dalam melakukan remote server](https://www.youtube.com/watch?v=x6kF6D9aE5M)
 - [Cara Setting Firewall Pada CentOS 7 dengan FirewallD #016](https://www.youtube.com/watch?v=8YwJEkiRG48)
 - [Cara Setting Swapfile pada Server CentOS 7 #015](https://www.youtube.com/watch?v=lGx2B7O-AKw)
-- [Cara Setting WIFI IndiHome Lebih Dari Satu - ZTE F609](https://www.youtube.com/watch?v=Xwoirhc11N0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
