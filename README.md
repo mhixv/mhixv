@@ -18,11 +18,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [017 - Cara Install ModSecurity pada Linux CentOS 7](https://www.youtube.com/watch?v=xCVi6dHIDHk)
+- [Cara Install Composer di Linux Ubuntu Server 20.04 #007](https://www.youtube.com/watch?v=DQcq3J0hELA)
+- [Cara Mengamankan PhpMyAdmin Ubuntu Server 20.04 #006](https://www.youtube.com/watch?v=pATfg3gkMDE)
 - [Cara Optimasi dan Mempercepat WiFi Indihome Modem F609](https://www.youtube.com/watch?v=q3WqvoUbfSc)
-- [Cara Instal PhpMyAdmin di Ubuntu Server 20.04 #005](https://www.youtube.com/watch?v=t7ZGZ94y40c)
-- [Cara Mengamankan WiFi dan Modem Indihome ZTE](https://www.youtube.com/watch?v=Nltpz1oXIxE)
-- [Cara mengatasi lupa username dan password Modem IndiHome ZTE](https://www.youtube.com/watch?v=ofPrxMyZV8g)
-- [Cara instalasi Debian Linux di Virtualbox](https://www.youtube.com/watch?v=08aXA4I3-Ag)
+- [Cara Install PhpMyAdmin di Ubuntu Server 20.04 #005](https://www.youtube.com/watch?v=t7ZGZ94y40c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
