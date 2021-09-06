@@ -18,11 +18,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [010 - Cara Setting dan Konfigurasi Virtual Host Apache di Ubuntu Server 20.04](https://www.youtube.com/watch?v=M5tKsN2fi4Q)
+- [009 - Cara install dan setting Modsecurity pada apache  di ubuntu server 20.04](https://www.youtube.com/watch?v=SMe-lwSgFHg)
+- [008 - Cara Setting UFW Firewall pada Ubuntu Server 20.04](https://www.youtube.com/watch?v=w7NvdYsgUh4)
 - [017 - Cara Install ModSecurity pada Linux CentOS 7](https://www.youtube.com/watch?v=xCVi6dHIDHk)
-- [Cara Install Composer di Linux Ubuntu Server 20.04 #007](https://www.youtube.com/watch?v=DQcq3J0hELA)
-- [Cara Mengamankan PhpMyAdmin Ubuntu Server 20.04 #006](https://www.youtube.com/watch?v=pATfg3gkMDE)
-- [Cara Optimasi dan Mempercepat WiFi Indihome Modem F609](https://www.youtube.com/watch?v=q3WqvoUbfSc)
-- [Cara Install PhpMyAdmin di Ubuntu Server 20.04 #005](https://www.youtube.com/watch?v=t7ZGZ94y40c)
+- [007 - Cara Install Composer di Linux Ubuntu Server 20.04](https://www.youtube.com/watch?v=DQcq3J0hELA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
