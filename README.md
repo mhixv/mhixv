@@ -18,11 +18,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [014 - Cara Install MySQL 8 di Ubuntu Server 20.04](https://www.youtube.com/watch?v=oWIR8Z6BZyo)
+- [013 - Cara Instalasi Webmin di Ubuntu Server 20.04 LTS](https://www.youtube.com/watch?v=o8ZvzJqBqzs)
 - [012 - Cara Setting SSH dengan Private dan Public Key Ubuntu Server 20.04](https://www.youtube.com/watch?v=xAJWGl0wF0M)
 - [011 - Cara Install Nginx + PHP-FPM di Ubuntu Server 20.04](https://www.youtube.com/watch?v=PsMfPTBZTT4)
 - [010 - Cara Setting dan Konfigurasi Virtual Host Apache di Ubuntu Server 20.04](https://www.youtube.com/watch?v=M5tKsN2fi4Q)
-- [009 - Cara install dan setting Modsecurity pada apache  di ubuntu server 20.04](https://www.youtube.com/watch?v=SMe-lwSgFHg)
-- [008 - Cara Setting UFW Firewall pada Ubuntu Server 20.04](https://www.youtube.com/watch?v=w7NvdYsgUh4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
