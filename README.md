@@ -18,11 +18,11 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [020 - Install dan menggunakan Linux Screen  di Ubuntu Server 20.04](https://www.youtube.com/watch?v=fB7hsRf9VSo)
+- [019 - Pengenalan dan Install Supervisor di Ubuntu Server 20.04](https://www.youtube.com/watch?v=2vHPt4-OjJE)
+- [018 - Cara melakukan pengecekan port yang terbuka/listening di Ubuntu Server](https://www.youtube.com/watch?v=YKns6Jg_SPk)
 - [Unboxing dan Review Monitor Viewsonic VX2481-MH Layar IPS](https://www.youtube.com/watch?v=esR8ekzeSUc)
 - [017 - Cara Menambah dan Menghapus User/Pengguna  di Ubuntu Server](https://www.youtube.com/watch?v=btLFLU8ct7k)
-- [016 -  Mengelola Database MYSQL dengan CLI &lpar;Command Line Interface&rpar;](https://www.youtube.com/watch?v=SUbU8TtdhF8)
-- [015 - Seting IP Statis di Ubuntu Server 20.04 dengan Netplan](https://www.youtube.com/watch?v=BRYlxr85R-o)
-- [014 - Cara Install MySQL 8 di Ubuntu Server 20.04](https://www.youtube.com/watch?v=oWIR8Z6BZyo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/HenriSekeladi)
